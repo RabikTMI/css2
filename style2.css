@@ -1,0 +1,29 @@
+body{
+
+  font-family: Verdana ;
+}
+
+  .baner {
+background:blue ;
+padding: 30px;
+font-size: 1.2em;
+}
+
+
+.lewa {
+background: green;
+padding: 281px;
+width: 3%;
+float: left;
+}
+
+.prawa{
+  background: yellow;
+  padding: 285px;
+}
+
+.stopka{
+  background:blue ;
+  padding: 30px;
+  font-size: 1.2em;
+}
